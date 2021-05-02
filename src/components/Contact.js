@@ -95,10 +95,22 @@ const Contact = () => {
             variant="outlined"
             fullWidth={true}
             endIcon={<Send />}
-            className={classes.button +" nusret"}
+            className={classes.button + " nusret"}
           >
             Contact Me
           </Button>
+          <div className="contactt">
+            <div className="contactt__email">
+              {" "}
+              <p className="contactt__basliq">Email:</p>
+              <p className="contactt__melumat">nusretibragimli@gmail.com</p>
+            </div>
+            <div className="contactt__phone">
+              {" "}
+              <p className="contactt__basliq">Phone:</p>
+              <p  className="contactt__melumat">+994507301013</p>
+            </div>
+          </div>
         </Box>
       </Grid>
     </Box>

@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.contactt{
+  display: flex;
+  justify-content: space-between;
+  border: 1px tan solid;
+  border-radius: 5px;
+  margin-top: 15px;
+  padding: 0 15px;
+}
+
+.contactt__basliq{
+  font-size: 18px;
+  color: tomato;
+  margin-right: 15px;
+}
+
+.contactt__melumat{
+  color: tan;
+  font-size: 16px;
+}
+
+.contactt__email{
+display: flex;
+align-items: center;
+}
+
+.contactt__phone{
+display: flex;
+align-items: center;
+}
+
+@media only screen and (max-width: 1000px) {
+  .contactt{
+flex-direction: column;
+align-items: center;
+justify-content: center;
+  }
+}
