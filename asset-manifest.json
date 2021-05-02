@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3fde4989.chunk.css",
-    "main.js": "/portfolio/static/js/main.a9f20e20.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a9f20e20.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.acba34ac.chunk.css",
+    "main.js": "/portfolio/static/js/main.29d14a28.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.29d14a28.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
-    "static/js/2.e6f87ba6.chunk.js": "/portfolio/static/js/2.e6f87ba6.chunk.js",
-    "static/js/2.e6f87ba6.chunk.js.map": "/portfolio/static/js/2.e6f87ba6.chunk.js.map",
+    "static/js/2.a08d154b.chunk.js": "/portfolio/static/js/2.a08d154b.chunk.js",
+    "static/js/2.a08d154b.chunk.js.map": "/portfolio/static/js/2.a08d154b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.3fde4989.chunk.css.map": "/portfolio/static/css/main.3fde4989.chunk.css.map",
-    "static/js/2.e6f87ba6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e6f87ba6.chunk.js.LICENSE.txt",
+    "static/css/main.acba34ac.chunk.css.map": "/portfolio/static/css/main.acba34ac.chunk.css.map",
+    "static/js/2.a08d154b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a08d154b.chunk.js.LICENSE.txt",
+    "static/media/adaminportu.3262e5f2.png": "/portfolio/static/media/adaminportu.3262e5f2.png",
+    "static/media/bir.d956a59f.png": "/portfolio/static/media/bir.d956a59f.png",
     "static/media/App.css": "/portfolio/static/media/coffee-apple.a0c19713.jpg",
-    "static/media/html-css-javascript-lg.91568b14.jpg": "/portfolio/static/media/html-css-javascript-lg.91568b14.jpg",
-    "static/media/html-css-javascript.3ead6754.jpg": "/portfolio/static/media/html-css-javascript.3ead6754.jpg",
-    "static/media/javascript-fullstack.f5822e7b.jpg": "/portfolio/static/media/javascript-fullstack.f5822e7b.jpg",
-    "static/media/mern-stack.64b9cbdd.jpg": "/portfolio/static/media/mern-stack.64b9cbdd.jpg",
+    "static/media/cutluk.7202eda4.png": "/portfolio/static/media/cutluk.7202eda4.png",
+    "static/media/export.b7fde54a.png": "/portfolio/static/media/export.b7fde54a.png",
+    "static/media/gridolan.c9561e2a.png": "/portfolio/static/media/gridolan.c9561e2a.png",
     "static/media/nusret.0f4b1f0d.JPG": "/portfolio/static/media/nusret.0f4b1f0d.JPG",
-    "static/media/react-redux.fb61d456.jpg": "/portfolio/static/media/react-redux.fb61d456.jpg",
-    "static/media/react.e3c4d28a.png": "/portfolio/static/media/react.e3c4d28a.png"
+    "static/media/todo.a02cd7f4.png": "/portfolio/static/media/todo.a02cd7f4.png",
+    "static/media/velosiped.87bd2b6e.png": "/portfolio/static/media/velosiped.87bd2b6e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
-    "static/js/2.e6f87ba6.chunk.js",
-    "static/css/main.3fde4989.chunk.css",
-    "static/js/main.a9f20e20.chunk.js"
+    "static/js/2.a08d154b.chunk.js",
+    "static/css/main.acba34ac.chunk.css",
+    "static/js/main.29d14a28.chunk.js"
   ]
 }
