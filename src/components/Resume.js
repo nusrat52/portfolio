@@ -243,6 +243,54 @@ const Resume = () => {
             Bir qədər individual məşğul olduqdan sonra 2020-ci ilin Dekabr ayında Tech academy-də web developmenti daha dərindən və peşəkar şəkildə öyrənməyə başladim. Kurs real proyektlərlə taniş oldumağıma və biraz da bu saheye olan marağımı artirmağa kömək oldu.
           </Typography>
         </Box>
+
+
+
+
+
+
+
+
+        <Typography
+          variant="h2"
+          className={`${classes.timeLineYear} ${classes.timeLineItem}`}
+        >
+          2021
+        </Typography>
+        <Box component="div" className={classes.timeLineItem}>
+          <Typography
+            variant="h5"
+            align="center"
+            className={classes.subHeading}
+          >
+            Webhouse
+          </Typography>
+          <Typography variant="body1" align="center" className={classes.body1}>
+          03.06.2021-now
+          </Typography>
+          <Typography
+            variant="subtitle1"
+            align="center"
+            className={classes.subtitle1}
+          >
+2021-ci ilin May ayından Webhouse adlı şirkətdə  Web Developer kimi fəaliyyət göstərirəm. Əsas öhtəliklərim React və Vanilla Javascript ilə Web səhifənin front hissəsi olsada öz Backend biliklərimlə də komandaya dəstək olmuşam. 
+          </Typography>
+        </Box>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </Box>
     </Box>
   );
