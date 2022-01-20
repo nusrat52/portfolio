@@ -132,14 +132,18 @@ const Resume = () => {
             Azərbaycan Dövlət Neft və Sənaye Universiteti
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-          2012-2016 (Bakalavr)
+            2012-2016 (Bakalavr)
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-           2012-ci ilde TQDK-nin kecirtdiyi imtahanda 572 bal yigaraq ADNS universitetinin QNM fakultesine daxil olmusam. Universitet illerinde derslerimle yanasi idmanla, müxtəlif sosyal yığıncaqlarla və şirkətlərin internship programları ilə məşğul olmuşam. Və nəhayət 2016-ci ildə universiteti bitirib hərbi xidmətə yollandim
+            2012-ci ilde TQDK-nin kecirtdiyi imtahanda 572 bal yigaraq ADNS
+            universitetinin QNM fakultesine daxil olmusam. Universitet illerinde
+            derslerimle yanasi idmanla, müxtəlif sosyal yığıncaqlarla və
+            şirkətlərin internship programları ilə məşğul olmuşam. Və nəhayət
+            2016-ci ildə universiteti bitirib hərbi xidmətə yollandim
           </Typography>
         </Box>
         <Typography
@@ -164,7 +168,8 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-           2016-2017-ci illərdə HDQ də mühərrikci matros olaraq vətənə olan borcumu yerinə yetirmişəm
+            2016-2017-ci illərdə HDQ də mühərrikci matros olaraq vətənə olan
+            borcumu yerinə yetirmişəm
           </Typography>
         </Box>
         <Typography
@@ -189,7 +194,8 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-            2018 May ayinda Ingilis dili hazrlıqlarına baslayıb hemin ilin Noyabr ayinda IELTS 6 (B2) sertifikatımi aldim
+            2018 May ayinda Ingilis dili hazrlıqlarına baslayıb hemin ilin
+            Noyabr ayinda IELTS 6 (B2) sertifikatımi aldim
           </Typography>
         </Box>
         <Typography
@@ -207,14 +213,19 @@ const Resume = () => {
             SOCAR
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-          07.01.2019-15.02.2020
+            07.01.2019-15.02.2020
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            2019-cu ilin Dekabr ayında coxsaylı cəhdlərimin ardından SOCAR-a işçi kimi qəbul ola bildim. Əvvəlca quyuların yeraltı və əsaslı təmiri üzrə operatr kimi işə başlasamda həmin ilin yay aylarında idarə tərəfindən vəzifəcə bir pillə yuxarı qaldırılaraq Qazmaçı köməkçisi vəzifəsinə yüksəldildim. 2020-ci ilin Fevral ayında proqramlaşdırmaya olan marağımdan işimdən ayrıldım.
+            2019-cu ilin Dekabr ayında coxsaylı cəhdlərimin ardından SOCAR-a
+            işçi kimi qəbul ola bildim. Əvvəlca quyuların yeraltı və əsaslı
+            təmiri üzrə operatr kimi işə başlasamda həmin ilin yay aylarında
+            idarə tərəfindən vəzifəcə bir pillə yuxarı qaldırılaraq Qazmaçı
+            köməkçisi vəzifəsinə yüksəldildim. 2020-ci ilin Fevral ayında
+            proqramlaşdırmaya olan marağımdan işimdən ayrıldım.
           </Typography>
         </Box>
 
@@ -233,23 +244,19 @@ const Resume = () => {
             Tech Academy
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-          09.11.2020
+            09.11.2020
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Bir qədər individual məşğul olduqdan sonra 2020-ci ilin Dekabr ayında Tech academy-də web developmenti daha dərindən və peşəkar şəkildə öyrənməyə başladim. Kurs real proyektlərlə taniş oldumağıma və biraz da bu saheye olan marağımı artirmağa kömək oldu.
+            Bir qədər individual məşğul olduqdan sonra 2020-ci ilin Dekabr
+            ayında Tech academy-də web developmenti daha dərindən və peşəkar
+            şəkildə öyrənməyə başladim. Kurs real proyektlərlə taniş oldumağıma
+            və biraz da bu saheye olan marağımı artirmağa kömək oldu.
           </Typography>
         </Box>
-
-
-
-
-
-
-
 
         <Typography
           variant="h2"
@@ -266,31 +273,19 @@ const Resume = () => {
             Webhouse
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-          03.06.2021-now
+            03.06.2021-now
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-2021-ci ilin May ayından Webhouse adlı şirkətdə  Web Developer kimi fəaliyyət göstərirəm. Əsas öhtəliklərim React və Vanilla Javascript ilə Web səhifənin front hissəsi olsada öz Backend biliklərimlə də komandaya dəstək olmuşam. 
+            2021-ci ilin May ayından Webhouse adlı şirkətdə Web Developer kimi
+            fəaliyyət göstərirəm. Əsas öhtəliklərim React və Vanilla Javascript
+            ilə Web səhifənin front hissəsi olsada öz Backend biliklərimlə də
+            komandaya dəstək olmuşam.
           </Typography>
         </Box>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       </Box>
     </Box>
   );
