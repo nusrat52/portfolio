@@ -27,8 +27,7 @@ const Footer = () => {
     <BottomNavigation className={classes.bottomNavContainer}>
       <BottomNavigationAction href="https://www.facebook.com/nusret.ibrahimli/" icon={<Facebook />} className={classes.root} />
       <BottomNavigationAction href="https://github.com/nusrat52" icon={<GitHubIcon />} className={classes.root} />
-      <h1>odu</h1>
-      <BottomNavigationAction href="https://www.linkedin.com/in/nusret-ibrahimli-b42063148/" icon={<LinkedInIcon />} className={classes.root} />
+       <BottomNavigationAction href="https://www.linkedin.com/in/nusret-ibrahimli-b42063148/" icon={<LinkedInIcon />} className={classes.root} />
     </BottomNavigation>
   );
 };
