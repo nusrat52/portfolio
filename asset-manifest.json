@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.acba34ac.chunk.css",
-    "main.js": "/portfolio/static/js/main.78ebff92.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.78ebff92.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.cedb48b1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cedb48b1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/js/2.f2c51f0e.chunk.js": "/portfolio/static/js/2.f2c51f0e.chunk.js",
@@ -12,11 +12,14 @@
     "static/js/2.f2c51f0e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f2c51f0e.chunk.js.LICENSE.txt",
     "static/media/adaminportu.3262e5f2.png": "/portfolio/static/media/adaminportu.3262e5f2.png",
     "static/media/bir.d956a59f.png": "/portfolio/static/media/bir.d956a59f.png",
+    "static/media/cehizim.f0cbcda2.png": "/portfolio/static/media/cehizim.f0cbcda2.png",
     "static/media/App.css": "/portfolio/static/media/coffee-apple.a0c19713.jpg",
     "static/media/cutluk.7202eda4.png": "/portfolio/static/media/cutluk.7202eda4.png",
     "static/media/export.b7fde54a.png": "/portfolio/static/media/export.b7fde54a.png",
     "static/media/gridolan.c9561e2a.png": "/portfolio/static/media/gridolan.c9561e2a.png",
     "static/media/nusret.0f4b1f0d.JPG": "/portfolio/static/media/nusret.0f4b1f0d.JPG",
+    "static/media/otomall.43cb56b3.png": "/portfolio/static/media/otomall.43cb56b3.png",
+    "static/media/portchase.afed5c40.png": "/portfolio/static/media/portchase.afed5c40.png",
     "static/media/todo.a02cd7f4.png": "/portfolio/static/media/todo.a02cd7f4.png",
     "static/media/velosiped.87bd2b6e.png": "/portfolio/static/media/velosiped.87bd2b6e.png"
   },
@@ -24,6 +27,6 @@
     "static/js/runtime-main.76232b81.js",
     "static/js/2.f2c51f0e.chunk.js",
     "static/css/main.acba34ac.chunk.css",
-    "static/js/main.78ebff92.chunk.js"
+    "static/js/main.cedb48b1.chunk.js"
   ]
 }
